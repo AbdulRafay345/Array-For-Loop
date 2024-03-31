@@ -1,0 +1,22 @@
+header ,
+footer , 
+#originalString {
+    background: #024;
+}
+
+main .container input{
+    min-width: 280px;
+    min-height: 30px;
+}
+
+main .container button {
+    height: 30px;
+}
+
+#btn button {
+    width: 100%;
+}
+
+.card {
+    min-height: 239px;
+}
